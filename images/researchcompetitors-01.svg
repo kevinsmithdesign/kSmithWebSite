@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D1D3D3;}
+	.st1{fill:none;stroke:#D1D3D3;stroke-width:4;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#A4A9AD;stroke-width:4;stroke-miterlimit:10;}
+	.st3{fill:#A4A9AD;stroke:#A4A9AD;stroke-miterlimit:10;}
+	.st4{fill:#A4A9AD;}
+</style>
+<g>
+	<rect x="0" class="st0" width="100" height="100"/>
+	<g>
+		<path class="st1" d="M67.5,45.7c4.1-6.3,2.2-14.8-4.1-18.8c-6.3-4.1-14.8-2.2-18.8,4.1c-3.7,5.8-2.5,13.4,2.7,17.8L43.9,54
+			L42,52.8L30.3,71l6.7,4.3l11.7-18.1l-1.9-1.2l3.4-5.3C56.3,53.6,63.8,51.6,67.5,45.7z"/>
+		<g>
+			<ellipse transform="matrix(0.541 -0.841 0.841 0.541 -6.2871 64.7778)" class="st2" cx="56.2" cy="38.1" rx="11.9" ry="11.9"/>
+			<line class="st2" x1="49.8" y1="48.1" x2="36.5" y2="68.8"/>
+			
+				<rect x="29.3" y="60.3" transform="matrix(0.5408 -0.8412 0.8412 0.5408 -35.468 62.6952)" class="st3" width="20.7" height="7.1"/>
+		</g>
+		<g>
+			<polygon class="st4" points="55.9,32 61.7,32 56.9,37.6 59.7,37.6 54.3,44.2 55.8,39.4 50.6,39.5 			"/>
+		</g>
+	</g>
+</g>
+</svg>
